@@ -5,7 +5,7 @@
 
 https://live.ottiptv.cc/iptv.m3u?userid=1036816302&sign=2f5cb9fa167343cbafbbd185f904428bc663f6e1f7229d5c4666dee9a8389e5215b6868ce02e14814a797731850d7ceeb87d1cf8d52719e5b3dd8a67a473138269c2ec8c7e21d2&auth_token=2edc33a00a6377f4349d0274d5ffed1d
 
-
+https://live.zbds.top/tv/iptv4.m3u
 
 
 
